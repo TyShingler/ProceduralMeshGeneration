@@ -261,4 +261,6 @@ __pycache__/
 *.pyc
 
 # Unity 
-Temp/UnityLockfile
+Temp/*
+Library/metadata/*
+Library/ScriptAssemblies/*
